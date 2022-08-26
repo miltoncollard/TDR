@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/TDR/static/css/main.3b6c27d3.css",
+    "main.css": "/TDR/static/css/main.682a8eb7.css",
     "main.js": "/TDR/static/js/main.c5d725f2.js",
     "static/js/787.bbb196bc.chunk.js": "/TDR/static/js/787.bbb196bc.chunk.js",
     "static/media/about_us_background.jpg": "/TDR/static/media/about_us_background.4830e59e8b225114e981.jpg",
@@ -13,12 +13,12 @@
     "static/media/contact_background.jpg": "/TDR/static/media/contact_background.710d88b1d2b057d6e013.jpg",
     "static/media/logo.png": "/TDR/static/media/logo.023c6592cb9e98204f77.png",
     "index.html": "/TDR/index.html",
-    "main.3b6c27d3.css.map": "/TDR/static/css/main.3b6c27d3.css.map",
+    "main.682a8eb7.css.map": "/TDR/static/css/main.682a8eb7.css.map",
     "main.c5d725f2.js.map": "/TDR/static/js/main.c5d725f2.js.map",
     "787.bbb196bc.chunk.js.map": "/TDR/static/js/787.bbb196bc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b6c27d3.css",
+    "static/css/main.682a8eb7.css",
     "static/js/main.c5d725f2.js"
   ]
 }
