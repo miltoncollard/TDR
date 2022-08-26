@@ -6,6 +6,7 @@ import Footer from '../../components/footer/footer'
 import { useTranslation } from 'react-i18next';
 //style
 import './Contact.scss'
+import './Contact_MobileResponsive.scss'
 
 export default function Contact(){
     const [t, i18n] = useTranslation("global")

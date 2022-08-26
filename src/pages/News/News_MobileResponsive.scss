@@ -1,9 +1,9 @@
 
 @media only screen and (max-width: 480px) {
 
-    .services-container{
+    .news-container{
 
-        .services-header{
+        .news-header{
             nav{
                 display: block;
                 height: 80px;
@@ -89,17 +89,24 @@
             }
         }
     
-        .services-main{
+        .news-main{
             padding: 100px 0 30px 0;
 
             .main-info{
                 height: 100%;
                 padding-top: 50px;
+
+                .main-info-news{
+                    flex-direction: column;
+                }
                 p{
                     font-size: 20px;
                 }
             }
         }
 
+        footer{
+            position: relative;
+        }
     }
 }

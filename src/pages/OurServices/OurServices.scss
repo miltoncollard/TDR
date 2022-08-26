@@ -20,6 +20,8 @@
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
+        padding-top: 100px;
+        padding-bottom: 50px;
         .main-info{
             width: 75%;
             height: calc(100vh - 170px);
@@ -42,7 +44,6 @@
 
     footer{
         width:100%;
-        position: absolute;
         bottom: 0;
     }
 

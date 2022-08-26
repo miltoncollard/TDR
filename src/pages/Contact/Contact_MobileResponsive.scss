@@ -1,9 +1,9 @@
 
 @media only screen and (max-width: 480px) {
 
-    .services-container{
+    .contact-container{
 
-        .services-header{
+        .contact-header{
             nav{
                 display: block;
                 height: 80px;
@@ -89,15 +89,16 @@
             }
         }
     
-        .services-main{
+        .contact-main{
             padding: 100px 0 30px 0;
-
+            height: 100vh;
             .main-info{
-                height: 100%;
+                height: calc(100% - 150px);
                 padding-top: 50px;
                 p{
                     font-size: 20px;
                 }
+
             }
         }
 
