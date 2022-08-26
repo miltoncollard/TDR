@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/TDR/static/css/main.f2750015.css",
+    "main.js": "/TDR/static/js/main.76081794.js",
+    "static/js/787.bbb196bc.chunk.js": "/TDR/static/js/787.bbb196bc.chunk.js",
+    "static/media/about_us_background.jpg": "/TDR/static/media/about_us_background.4830e59e8b225114e981.jpg",
+    "static/media/our_services_background.jpg": "/TDR/static/media/our_services_background.35f3d61494f36a18e068.jpg",
+    "static/media/home_background_1.jpeg": "/TDR/static/media/home_background_1.81dd0a0b12d366b0023c.jpeg",
+    "static/media/home_background_4.jpeg": "/TDR/static/media/home_background_4.ebedd0e41d3de18de8cd.jpeg",
+    "static/media/background_home_3.jpg": "/TDR/static/media/background_home_3.b11d2f5d9c481d55d50c.jpg",
+    "static/media/home_background_3.jpeg": "/TDR/static/media/home_background_3.b60442a5df5119da261d.jpeg",
+    "static/media/home_background_2.jpeg": "/TDR/static/media/home_background_2.80ef6fefac9d8777b13e.jpeg",
+    "static/media/contact_background.jpg": "/TDR/static/media/contact_background.710d88b1d2b057d6e013.jpg",
+    "static/media/logo.png": "/TDR/static/media/logo.023c6592cb9e98204f77.png",
+    "index.html": "/TDR/index.html",
+    "main.f2750015.css.map": "/TDR/static/css/main.f2750015.css.map",
+    "main.76081794.js.map": "/TDR/static/js/main.76081794.js.map",
+    "787.bbb196bc.chunk.js.map": "/TDR/static/js/787.bbb196bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2750015.css",
+    "static/js/main.76081794.js"
+  ]
+}
