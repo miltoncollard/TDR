@@ -1,0 +1,48 @@
+{
+    "header": {
+        "navbar": {
+            "home": "HOME",
+            "about-us": "ABOUT US",
+            "our-services": "OUR SERVICES",
+            "news": "NEWS",
+            "contact": "CONTACT"
+        },
+        "carousel": {
+            "sports": "SPORTS",
+            "entertainment": "ENTERTAINMENT",
+            "gastronomy": "GASTRONOMY",
+            "bets": "BETS"
+        }
+    },
+    "main": {
+        "homepage": {
+            "text-1": "TDR Consulting & Management Latin America facilitates profitable business solutions for our worldwide clients and partners interested in the Latin American region.",
+            "text-2": "TDR Consulting & Management Latin America has one unique advantage which sets us apart. We understand exactly how the differing Latin American business cultures work, and manage the forms and sensibilities which are essential to successful international partnerships and transactions. We bring different worlds together.",
+            "text-3": "Whether you are interested in exporting to, or importing from Latin America, or any other form of business activity, we have theexperience and expertise to assist you to maximise your commercial enterprises.",
+            "text-4": "Please contact us in order to evaluate your opportunities and see how we can best contribute to your success."
+        },
+        "about-us": {
+            "text-1": "TDR Consulting & Management Latin America is led by Timothy Read, who has more than 30 years’ experience in international business in over 80 countries around the world.",
+            "text-2": "With bases in Argentina, Uruguay and the United Kingdom, TDR Consulting & Management Latin America combines a wealth of inhouse knowledge and experience, and a network of professional and technical associates capable of analysing and resolving a clear path for your particular needs.",
+            "text-3": "Whilst we are willing to investigate other fields, we are particularly strong in, and focused on, businesses relating to the Leisure, Entertainment, Gastronomy, Gaming and Sports Industries (LEGGS)."
+        },
+        "our-services": {
+            "text-1": "Our services include, but are not limited to:",
+            "text-2": "Initial consultancy: we help you to analyse your market opportunities, and your requirements to meet them successfully. This can range from legal, technical, and accounting, to distribution and supply chain management, and marketing and sales strategies.",
+            "text-3": "Project implementation: once your needs and opportunities have been identified, we can accompany you actively to the extent you choose in their implementation. Our participation can help you to make your first moves in new markets with a minimum of trepidation and cost. We can then accompany you in the growth of your project. Essentially, we are not doing anything we have not done before.",
+            "text-4": "Full project management: depending on the nature of the project, we are willing to evaluate a deeper participation. This could be done in a variety of ways, from representation and sales agreements to a full joint-venture. Nothing is set in stone. Our objective is simply to provide the best solutions for you to maximise your results."
+        },
+        "news": {
+
+        },
+        "contact": {
+            "text-1": "Please contact us on the following numbers:",
+            "text-2": "Email: info@tdrcmla.com",
+            "text-3": "Tel: 0054 911 44485975",
+            "text-4": "004475 850425"
+        }
+    },
+    "footer": {
+        "info": "© 2022 All rights reserved."
+    }
+}

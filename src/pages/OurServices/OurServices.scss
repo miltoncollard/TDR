@@ -1,0 +1,49 @@
+
+.services-container{
+    min-height: 100vh;
+    .services-header{
+        nav{
+            position: relative;
+            height: 70px;
+            box-shadow: 3px 3px 25px black;
+            .nav-logo{
+                img{
+                    width: 50px;
+                }
+            }
+        }
+    }
+    .services-main{
+        background-image: url('../../assets/images/our_services_background.jpg');
+        min-height: 500px;
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        .main-info{
+            width: 75%;
+            height: calc(100vh - 170px);
+            display: flex;
+            margin: 0 auto;
+            justify-content: center;
+            flex-direction: column;
+            p{
+                text-align: start;
+                text-shadow: 3px 3px rgb(221 221 221);
+                margin-bottom: 30px;
+                letter-spacing: 3px;
+                font-size: 30px;
+                font-family: "Bebas Neue";
+                font-weight: 700;
+                color: rgb(48, 63, 109);
+            }
+        }
+    }
+
+    footer{
+        width:100%;
+        position: absolute;
+        bottom: 0;
+    }
+
+}

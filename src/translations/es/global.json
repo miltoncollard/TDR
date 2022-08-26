@@ -1,0 +1,48 @@
+{
+    "header": {
+        "navbar": {
+            "home": "INICIO",
+            "about-us": "SOBRE NOSOTROS",
+            "our-services": "NUESTROS SERVICIOS",
+            "news": "NOVEDADES",
+            "contact": "CONTACTO"
+        },
+        "carousel": {
+            "sports": "DEPORTES",
+            "entertainment": "ENTRETENIMIENTO",
+            "gastronomy": "GASTRONOMÍA",
+            "bets": "APUESTAS"
+        }
+    },
+    "main": {
+        "homepage": {
+            "text-1": "TDR Consulting & Management Latin America facilita soluciones comerciales rentables para nuestros clientes y socios en todo el mundo interesados en la región de América Latina.",
+            "text-2": "TDR Consulting & Management Latin America cuenta con una ventaja única que nos diferencia. Entendemos con precisión como operan las distintas culturas comerciales de América Latina y manejamos también las formas y sensibilidades que son esenciales para lograr asociaciones y negociaciones internacionales exitosas. Conectamos mundos diferentes.",
+            "text-3": "Si estás interesado en exportar a o importar de América Latina o en cualquier otro tipo de actividad comercial, contamos con la experiencia y el profesionalismo para ayudarte a maximizar tus emprendimientos comerciales.",
+            "text-4": "No dudes en contactarnos para evaluar tus oportunidades y considerar cual es la mejor manera para contribuir a tu éxito."
+        },
+        "about-us": {
+            "text-1": "TDR Consulting & Management Latin America se encuentra gerenciada por Timothy Read, quien cuenta con más de 30 años de experiencia en comercio internacional en más de 80 países del mundo.",
+            "text-2": "Con sede en Argentina, Uruguay y el Reino Unido, TDR Consulting & Management Latin America combina la riqueza del conocimiento y la experiencia interna con una red de profesionales y técnicos asociados capaces de analizar y ofrecer un camino claro para tus propias necesidades.",
+            "text-3": "Si bien estamos deseosos de investigar otras áreas, somos especialmente fuertes y nos orientamos a los negocios vinculados con el Ocio, Entretenimiento, Gastronomía y las Industrias de los Juegos y el Deporte."
+        },
+        "our-services": {
+            "text-1": "Nuestros servicios incluyen, entre otros:",
+            "text-2": "Consultoría Inicial: te ayudamos a analizar tus oportunidades de mercado y los requerimientos para aprovechar esas oportunidades con éxito abarcando desde el aspecto legal, técnico y contable hasta el área de distribución y cadena de suministro incluyendo, también, estrategias de marketing y venta.",
+            "text-3": "Implementación de Proyecto: Una vez que tus necesidades y oportunidades fueron identificadas desarrollamos un acompañamiento activo en la implementación de estas según lo acordado. Nuestra participación puede ayudarte a hacer los primeros movimientos en nuevos mercados con la mejor eficacia y el mínimo costo. Posteriormente podemos acompañarte en el crecimiento de tu proyecto. En pocas palabras, no hacemos nada que no hayamos hecho antes.",
+            "text-4": "Administración integral del proyecto: dependiendo de la naturaleza del proyecto, nos interesa evaluar una participación más completa que podría llevarse a cabo de diferentes maneras abarcando desde contratos de representación y venta hasta joint-ventures. Nada es fijo ni inamovible. Nuestro objetivo es simplemente brindarte las mejores soluciones para maximizar tus resultados."
+        },
+        "news": {
+
+        },
+        "contact": {
+            "text-1": "Sírvase contactarnos en los siguientes teléfonos:",
+            "text-2": "Email: info@tdrcmla.com",
+            "text-3": "Tel: 0054 911 44485975",
+            "text-4": "004475 850425"
+        }
+    },
+    "footer": {
+        "info": "© 2022 Todos los derechos reservados."
+    }
+}
